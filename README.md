@@ -4,8 +4,11 @@ Objetivo: mostrar o processo de detecção, análise e resposta a um ataque de p
 Estrutura
 
 caso.md - Relatório completo da análise do incidente.
+
 playbook.md - Procedimento de resposta a phishing.
+
 imagens/ - Prints de telas e logs do SIEM.
+
 Objetivo
 Treinar e documentar habilidades
 
